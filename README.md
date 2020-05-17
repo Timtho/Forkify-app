@@ -10,8 +10,12 @@ https://mkarasinski.github.io/Forkify-app/
 ![Example of use](./intro.png)
 
 ## Available search queries
-"⋅" carrot
-broccoli
+
+* Awesome feature 1
+* Awesome feature 2
+* Awesome feature 3
+* carrot
+*broccoli
 asparagus
 cauliflower
 corn
