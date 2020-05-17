@@ -7,7 +7,7 @@ https://mkarasinski.github.io/Forkify-app/
 
 ## Example of use
 
-![Example of use](./intro.png)
+![Example of use](./dist/img/github.png)
 
 ## Available search queries
 * apple
