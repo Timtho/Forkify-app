@@ -1,31 +1,39 @@
 # Forkify-app
 
-Pure JavaScript app for searching recipes.
+JavaScript app for searching recipes.
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Try out](#try-out)
+* [How to use](#how-to-use)
 * [Example of use](#example-of-use)
-* [Features](#features)
 * [API](#api)
 * [Available search queries](#available-search-queries)
 * [Sources](#sources)
 
 ## General info
 
+The application allows the user to search recipes. The user can also create a shopping list based on the recipe.
+
 ## Technologies
+* JavaScript 2015+
+* Webpack
 
 ## Try out
 https://mkarasinski.github.io/Forkify-app/
+
+## How to use
+
 
 ## Example of use
 
 ![Example of use](./dist/img/github.png)
 
-## Features
+
 
 ## API
+App was based on food2fork API, which no longer works. The API was changed to http://forkify-api.herokuapp.com/ created by course teacher - Jonas Schmedtmann.
 
 ## Available search queries
 * apple
