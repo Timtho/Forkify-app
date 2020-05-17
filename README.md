@@ -10,7 +10,7 @@ https://mkarasinski.github.io/Forkify-app/
 ![Example of use](./intro.png)
 
 ## Available search queries
-carrot
+"⋅" carrot
 broccoli
 asparagus
 cauliflower
