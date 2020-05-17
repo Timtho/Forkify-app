@@ -10,134 +10,135 @@ https://mkarasinski.github.io/Forkify-app/
 ![Example of use](./intro.png)
 
 ## Available search queries
-* carrot
-* broccoli
-* asparagus
-* cauliflower
-* corn
-* cucumber
-* green pepper
-* lettuce
-* mushrooms
-* onion
-* potato
-* pumpkin
-* red pepper
-* tomato
-* beetroot
-* brussel sprouts
-* peas
-* zucchini
-* radish
-* sweet potato
-* artichoke
-* leek
-* cabbage
-* celery
-* chili
-* garlic
-* basil
-* coriander
-* parsley
-* dill
-* rosemary
-* oregano
-* cinnamon
-* saffron
-* green bean
-* bean
-* chickpea
-* lentil
 * apple
 * apricot
+* arepas
+* artichoke
+* asparagus
 * avocado
+* bacon
 * banana
+* basil
+* bbq
+* bean
+* beef
+* beetroot
 * blackberry
 * blackcurrant
 * blueberry
 * boysenberry
+* broccoli
+* brussel sprouts
+* bunny chow
+* cabbage
+* cake
+* carrot
+* cauliflower
+* celery
+* champ
 * cherry
+* chicken
+* chickpea
+* chili
+* chili
+* chips
+* chocolate
+* cinnamon
 * coconut
+* coriander
+* corn
+* crab
+* croissant
+* cucumber
+* curry
+* dill
+* donuts
+* duck
+* fajitas
 * fig
+* fish
+* fries
+* garlic
+* goat
 * grape
 * grapefruit
+* green bean
+* green pepper
+* ham
+* hamburger
+* hummus
+* ice cream
+* kebab
+* ketchup
 * kiwifruit
+* lamb
+* lasagna
+* leek
 * lemon
+* lentil
+* lettuce
 * lime
+* lobster
 * lychee
 * mandarin
 * mango
+* maple syrup
+* marzipan
+* masala
 * melon
+* mushrooms
 * nectarine
+* onion
 * orange
+* oregano
+* paella
 * papaya
+* parma ham
+* parsley
 * passion fruit
+* pasta
 * peach
 * pear
-* pineapple
-* plum
-* pomegranate
-* quince
-* raspberry
-* strawberry
-* watermelon
-* salad
-* pizza
-* pasta
-* popcorn
-* lobster
-* steak
-* bbq
-* pudding
-* hamburger
-* pie
-* cake
-* sausage
-* tacos
-* kebab
-* poutine
-* seafood
-* chips
-* fries
-* masala
-* paella
-* som tam
-* chicken
-* toast
-* marzipan
-* tofu
-* ketchup
-* hummus
-* chili
-* maple syrup
-* parma ham
-* fajitas
-* champ
-* lasagna
-* poke
-* chocolate
-* croissant
-* arepas
-* bunny chow
-* pierogi
-* donuts
-* rendang
-* sushi
-* ice cream
-* duck
-* curry
-* beef
-* goat
-* lamb
-* turkey
-* pork
-* fish
-* crab
-* bacon
-* ham
+* peas
 * pepperoni
-* salami
+* pie
+* pierogi
+* pineapple
+* pizza
+* plum
+* poke
+* pomegranate
+* popcorn
+* pork
+* potato
+* poutine
+* pudding
+* pumpkin
+* quince
+* radish
+* raspberry
+* red pepper
+* rendang
 * ribs
+* rosemary
+* saffron
+* salad
+* salami
+* sausage
+* seafood
+* som tam
+* steak
+* strawberry
+* sushi
+* sweet potato
+* tacos
+* toast
+* tofu
+* tomato
+* turkey
+* watermelon
+* zucchini
+
 
 ## Sources
 This app is based on JavaScript Tutorial by Jonas Schmedtmann on Udemy.  
