@@ -24,7 +24,10 @@ https://mkarasinski.github.io/Forkify-app/
 
 ## How to use
 * Search for recipes using search bar - available search queries are listed below
-![Example of use](./dist/img/github.png)
+
+<p align="center">
+  <img src="./dist/img/github.png" />
+</p>
 
 * Change servings and add ingredients to your shopping list
 
@@ -33,7 +36,11 @@ https://mkarasinski.github.io/Forkify-app/
 ![Example of use](./dist/img/likes.png)
 
 * If you need extended explainations, go to How to cook it section
-![Example of use](./dist/img/howto.png)
+
+<p align="center">
+  <img src="./dist/img/howto.png" />
+</p>
+
 
 ## API
 App was based on food2fork API, which no longer works. The API was changed to http://forkify-api.herokuapp.com/ created by course teacher - Jonas Schmedtmann.
