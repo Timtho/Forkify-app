@@ -1,6 +1,20 @@
 # Forkify-app
 
-https://mkarasinski.github.io/Forkify-app/
+Pure JavaScript app for searching recipes.
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Try out](#try-out)
+* [Example of use](#example)
+* [Features](#features)
+* [API](#api)
+* [Available search queries](#queries)
+* [Sources](#sources)
+
+## General info
+
+## Technologies
 
 ## Try out on github pages
 https://mkarasinski.github.io/Forkify-app/
@@ -8,6 +22,10 @@ https://mkarasinski.github.io/Forkify-app/
 ## Example of use
 
 ![Example of use](./dist/img/github.png)
+
+## Features
+
+## API
 
 ## Available search queries
 * apple
