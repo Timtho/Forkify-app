@@ -6,17 +6,17 @@ Pure JavaScript app for searching recipes.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Try out](#try-out)
-* [Example of use](#example)
+* [Example of use](#example-of-use)
 * [Features](#features)
 * [API](#api)
-* [Available search queries](#queries)
+* [Available search queries](#available-search-queries)
 * [Sources](#sources)
 
 ## General info
 
 ## Technologies
 
-## Try out on github pages
+## Try out
 https://mkarasinski.github.io/Forkify-app/
 
 ## Example of use
