@@ -25,10 +25,13 @@ https://mkarasinski.github.io/Forkify-app/
 ## How to use
 * Search for recipes using search bar - available search queries are listed below
 ![Example of use](./dist/img/github.png)
+
 * Change servings and add ingredients to your shopping list
 ![Example of use](./dist/img/shoppinglist.png)
+
 * Like recipe to save it for future 
 ![Example of use](./dist/img/likes.png)
+
 * If you need extended explainations, go to How to cook it section
 ![Example of use](./dist/img/howto.png)
 
